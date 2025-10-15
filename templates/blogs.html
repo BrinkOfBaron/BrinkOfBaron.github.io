@@ -4,6 +4,12 @@
 <html>
 	<header><link rel='stylesheet' type='text/css' href='../style.css'></header>
 	<h1>Programming Blogs</h1>
+	<script>
+		var fs=require('fs');
+		var files = fs.readdirSync('/path');
+		document.write("<p>"+files+"</p>");
+		
+	</script>
 
 
 
