@@ -7,20 +7,6 @@ table, th, td{
 
 
 
-.html{
-	background-color: blue;
-
-
-
-@keyframes Text{
-  from {}
-  to {}
-}
-
-
-
-}
-
 @font-face{
 
 	font-family: "IBM";
@@ -32,8 +18,8 @@ table, th, td{
 
 body{
 
-	background-color: #357EC7;
-  font-family: "IBM";
+	background-color: lightgrey;
+  	font-family: "IBM";
 	text-align: center;
 	font-size: large;
   margin: 0;
